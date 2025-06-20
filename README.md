@@ -109,7 +109,7 @@ Authorization: <token>
 
 Elimina un usuario por ID (requiere token de admin).
 
-#### `PUT /auth/change-password`
+#### `POST /auth/change-password`
 
 Permite a un usuario cambiar su propia contraseña.
 

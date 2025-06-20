@@ -1,5 +1,3 @@
-# app/utils/models.py
-
 class User:
     def __init__(self, id, username, password, role="user"):
         self.id = id
