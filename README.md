@@ -41,7 +41,9 @@ python run.py
 
 El servicio estará disponible en: `http://127.0.0.1:5000/`
 
----
+La documentación interactiva de la API está disponible vía Swagger UI gracias a **Flasgger**.  
+Para acceder a ella, ejecuta el servidor y visita: [`http://localhost:5000/apidocs`](http://localhost:5000/apidocs)
+
 
 ## 🔐 Endpoints
 
